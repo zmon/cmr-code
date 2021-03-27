@@ -1,0 +1,3 @@
+# clear-my-record-law-codification
+
+We are going to try to use this as a place to document ....
